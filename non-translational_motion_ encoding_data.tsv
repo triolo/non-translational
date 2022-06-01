@@ -1,0 +1,296 @@
+id	язык	ситуация	выражение	глосса	переводной эквивалент	есть пример?	Пример	стратегия	тип корня	тип сателлита	что кодирует сателлит	редупликация	колексификации	совпадения корней	переходность	тип конструкции
+1	мвотлап	МАХАТЬ	alveg 	wave	beckon, wave to s.o., palm down	+	‘(You) greet me with your white handkerchief’	simple	wave	—	—	+	—	—	intr	—
+2	мвотлап	КАЧАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	intr	—
+3	мвотлап	КРУЖИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	intr	—
+4	мвотлап	ПЕРЕВОРАЧИВАТЬСЯ	hag vaqtep	sit_down upside_down	turn over	+	‘La tasse est posée [litt. assise] à l'envers (ouverture vers le bas).’	grammatical	sit_down	upside_down	Конечная точка	-	—	—	intr	—
+5	мвотлап	ПОВОРАЧИВАТЬСЯ	at kēlē	turn_around backwards	‘turn round to look back’	-	—	grammatical	turn_around	backwards	Траектория	-	—	—	intr	—
+6	мвотлап	ДРОЖАТЬ	m[ē]yē~myēn̄	tremble~RED	‘tremble, quiver, shake’	-	—	simple	tremble	—	—	+	—	—	intr	—
+7	мвотлап	ШЕВЕЛИТЬСЯ	w[ē]lē~wlēs	move~RED	‘remuer pour s'affranchir d'une contrainte physique’	-	—	simple	move	—	—	+	—	—	intr	—
+8	мвотлап	НАКЛОНЯТЬСЯ	taq hiy	bend downwards	‘bend down leaning towards the ground’	+	‘For the sea snake's dance, we have to lean forward.’	grammatical	bend	downwards	Траектория	-	—	—	intr	—
+9	мвотлап	ВЫПРЯМЛЯТЬСЯ	sis kal	lean upwards	‘lean upwards, stand up straight’	+	‘Straighten up!’	grammatical	lean	upwards	Траектория	-	—	—	intr	—
+10	ительменский	МАХАТЬ	awela-s	wave-INF	махать рукой; давать знак	+	‘Помаши ему’.	simple	wave	—	—	-	—	—	intr	—
+11	ительменский	КАЧАТЬСЯ	qele-kas 	swing-INF	качаться	-	—	simple	swing	—	—	-	—	—	intr	—
+12	ительменский	КРУЖИТЬСЯ	k’ele-kas	spin-INF	вертеться, кружиться	+	‘Не вертитесь!’	simple	spin	—	—	-	—	—	intr	—
+13	ительменский	ПЕРЕВОРАЧИВАТЬСЯ	sxozŋa-kas	turn-INF	поворачиваться, переворачиваться, оборачиваться	+	‘Повернись [ко мне]’	simple	turn	—	—	-	13-14	—	intr	—
+14	ительменский	ПОВОРАЧИВАТЬСЯ	sxozŋa-kas	turn-INF	поворачиваться, переворачиваться, оборачиваться	-	—	simple	turn	—	—	-	13-14	—	intr	—
+15	ительменский	ДРОЖАТЬ	xʷewet-kas	tremble-INF	дрожать (от холода, болезни, страха)	+	‘Не дрожи!	simple	tremble	—	—	-	—	—	intr	—
+16	ительменский	ШЕВЕЛИТЬСЯ	č’oxɬ-kas	move-INF	шевелиться	+	‘Там что-то шевелится’	simple	move	—	—	-	—	—	intr	—
+17	ительменский	НАКЛОНЯТЬСЯ	˚pneŋa-kas	bend-INF	наклоняться, ложиться ничком, кланяться	+	‘Он наклонился’.	simple	bend	—	—	-	—	—	intr	—
+18	ительменский	ВЫПРЯМЛЯТЬСЯ	wet~wet-kas	straighten_up~RED-INF	выпрямляться	+	‘Он выпрямился’.	simple	straighten_up	—	—	+	—	—	intr	—
+19	ик	МАХАТЬ	ɨmáxán-ɛ́s	wave-INF.TR	to wave	-	—	simple	wave	—	—	+	—	—	tr	—
+20	ик	КАЧАТЬСЯ	aƙóláán-ón	swing-INF.INTR	to swing	-	—	simple	swing	—	—	-	—	—	intr	—
+21	ик	КРУЖИТЬСЯ	ir-ím-ón 	spin-MED-INF.INTR	to circulate, move around, rotate, spin	-	—	grammatical	spin	MED	АП	-	—	—	intr	—
+22	ик	КРУЖИТЬСЯ	ir-ímét-òn	spin-MED-INF.INTR	to circulate, come around, rotate	-	—	grammatical	spin	MED	АП	-	—	—	intr	—
+23	ик	КРУЖИТЬСЯ	ɨríŋ-ɔ́n	spin-INF.INTR	to spin, turn	-	—	simple	spin	—	—	-	—	23-27-28	intr	—
+24	ик	ПЕРЕВОРАЧИВАТЬСЯ	iɓélé-ìmèt-òn	turn_over-MED-INF.INTR	‘to overturn, roll or turn over (on its own)’; ‘to change, transform’	-	—	grammatical	turn_over	—	—	-	—	24-25	intr	—
+25	ик	ПОВОРАЧИВАТЬСЯ	iɓélé-és-uƙot-a así	turn_over-INF.TR-AND-NOM REFL	‘to change one’s direction, turn oneself around’	-	—	grammatical	turn_over	AND; REFL	Дейксис, АП	-	—	24-25	intr	—
+26	ик	ПОВОРАЧИВАТЬСЯ	iɓó~ɓóŋ-òn	turn_around~RED-INF.INTR	‘to go back, return, turn around’	-	—	simple	turn_around	—	—	-	—	—	intr	—
+27	ик	ПОВОРАЧИВАТЬСЯ	ɨríŋ-ɔ́n-ʉƙɔta	spin-INF.INTR-AND	‘to turn around/away (that way)’	-	—	grammatical	spin	AND	Дейксис	-	—	23-27-28	intr	—
+28	ик	ПОВОРАЧИВАТЬСЯ	ɨríŋ-ɛ́t-ɔ̀n	spin-VEN-INF.INTR	‘to turn this way’	-	—	grammatical	spin	VEN	Дейксис	-	—	23-27-28	intr	—
+29	ик	ДРОЖАТЬ	kìt-òn	tremble-INF.INTR	‘to shake, quiver, shiver, tremble’,  ‘to be aflutter, jittery, nervous’	-	—	grammatical	tremble	—	—	-	—	—	intr	—
+30	ик	ШЕВЕЛИТЬСЯ	ɨsɔ́~sɔ́ŋ-ɔ́s	move~RED-PASS	‘to shift, stir (while sitting or sleeping)’	-	—	grammatical	move	PASS	АП	-	—	—	intr	—
+31	ик	НАКЛОНЯТЬСЯ	itúkúɗ-òn	bend-INF.INTR	‘to bend, crook, flex’	-	—	simple	bend	—	—	-	—	—	intr	—
+32	ик	НАКЛОНЯТЬСЯ	nɔƙɨ~nɔ́ƙ-ɔ́n	bend~RED- INF.INTR	‘to bend, flex’	-	—	simple	bend	—	—	+	—	—	intr	—
+33	ик	ВЫПРЯМЛЯТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+34	алекано	МАХАТЬ	a-gizani a-hulo mol-ave	3SG-hand 3SG-send put-3SG	wave at, wave goodbye	-	—	construction	put	throw	?	-	—	—	intr	неразложимая
+35	алекано	КАЧАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+36	алекано	КРУЖИТЬСЯ	lolo heleko v-ive	BOUND BOUND go-3SG	spin	-	—	construction	go	BOUND	?	-	—	—	intr	неразложимая
+37	алекано	КРУЖИТЬСЯ	vigé~vigé ive	circle~RED be.3SG	circle around, spin	-	—	construction	be	circle	Траектория	+	—	37-39-44-46	intr	разложимая
+38	алекано	КРУЖИТЬСЯ	helo~nalo l-ive	whirl~RED say-3SG	spin, turn back and forth aimlessly	-	—	construction	say	whirl	Траектория	+	—	—	intr	разложимая
+39	алекано	ПЕРЕВОРАЧИВАТЬСЯ	ale vevé ive	do roll be.3SG	turn over, overturn	-	—	construction	be	do roll	?	-	—	37-39-44-46	intr	неразложимая
+40	алекано	ПЕРЕВОРАЧИВАТЬСЯ	ale vilig-ave	do move-3SG	turn upside down, turn over	-	—	construction	move	do	?	-	—	40-45	intr	неразложимая
+41	алекано	ПЕРЕВОРАЧИВАТЬСЯ	alegepá z-ive	BOUND hit-3SG	turn over, turn upside down	-	—	construction	hit	BOUND	?	-	—	41-43-47-48-49-50	intr	неразложимая
+42	алекано	ПОВОРАЧИВАТЬСЯ	ale tiligisave	do turn_around	turn around	-	—	construction	turn_around	do	?	-	—	41-43-47-48-49-50	intr	неразложимая
+43	алекано	ПОВОРАЧИВАТЬСЯ	ale velegepá z-ive	do BOUND hit-3SG	turn around	-	—	construction	hit	do	?	-	—	41-43-47-48-49-50	intr	неразложимая
+44	алекано	ПОВОРАЧИВАТЬСЯ	atiginá ive	back be.3SG	turn around, return	-	—	construction	be	back	?	-	—	37-39-44-46	intr	неразложимая
+45	алекано	ПОВОРАЧИВАТЬСЯ	mino vilig-ave	be_located.CVB move-3SG	turn around	-	—	construction	move	be_located	?	-	—	40-45	intr	неразложимая
+46	алекано	ДРОЖАТЬ	guli~guli ive	tremble be.3SG	tremble, shake, rattle back and forth	-	—	construction	be	tremble	?	+	—	37-39-44-46	intr	неразложимая
+47	алекано	ДРОЖАТЬ	luvo~luvo z-ive	tremble hit-3SG	shiver, tremble	-	—	construction	hit	tremble	?	+	—	41-43-47-48-49-50	intr	неразложимая
+48	алекано	ДРОЖАТЬ	utení z-ive	tremble hit-3SG	tremble	-	—	construction	hit	tremble	?	-	—	41-43-47-48-49-50	intr	неразложимая
+49	алекано	ШЕВЕЛИТЬСЯ	vilig-ave	move-3SG	stir	-	—	simple	—	—	—	-	—	41-43-47-48-49-50	intr	—
+50	алекано	НАКЛОНЯТЬСЯ	gupá z-ive	BOUND hit-3SG	‘bow one's head, duck, crouch, bend down’	-	—	construction	hit	BOUND	?	-	—	41-43-47-48-49-50	intr	неразложимая
+51	алекано	НАКЛОНЯТЬСЯ	higigí viz-ive	BOUND ripen-3SG	‘bend over’	-	—	construction	ripen	BOUND	?	-	—	—	intr	неразложимая
+52	алекано	ВЫПРЯМЛЯТЬСЯ	ote veves-ave	stand.CVB be_straight	straighten up	-	—	construction	be_straight	stand	Конечная точка	-	—	—	intr	разложимая
+53	тиви	МАХАТЬ	piyanguwa	wave	‘wave to someone to come, beckon to someone’	+	‘He's waving to his friend’	simple	wave	—	—	-	—	—	intr	—
+54	тиви	КАЧАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+55	тиви	КРУЖИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+56	тиви	ПЕРЕВОРАЧИВАТЬСЯ	ajapurni-maya	turn-REFL	turn self around	+	‘He was sleeping and then he rolled over’	grammatical	turn	REFL	АП	-	56-57	—	intr	—
+57	тиви	ПОВОРАЧИВАТЬСЯ	ajapurni-maya	turn-REFL	turn self around	+	‘Then he turned around and looked at those who were sitting close to him and his friends.’	grammatical	turn	REFL	АП	-	56-57	—	intr	—
+58	тиви	ДРОЖАТЬ	purlingiya	tremble	‘for someone to tremble or shake’	+	‘We stayed there trembling.’	simple	tremble	—	—	-	—	—	intr	—
+59	тиви	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+60	тиви	НАКЛОНЯТЬСЯ	murarrijipa 	bend	‘bend over’	+	‘They were bent over.’	simple	bend	—	—	-	—	—	intr	—
+61	тиви	ВЫПРЯМЛЯТЬСЯ	purnikapa tulimiya	body straight	—	+	И она тотчас выпрямилась	construction	straighten	body	Участник	-	—	—	intr	разложимая
+62	зарма	МАХАТЬ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+63	зарма	КАЧАТЬСЯ	làngám 	swing	tanguer	+	‘Ветер дует, лодка качается.’	simple	swing	—	—	-	—	—	intr	—
+64	зарма	КРУЖИТЬСЯ	kúr-wíndí 	whirl-turn_around	‘tournoyer, tourbillonner, pivoter’	-	—	construction	turn_around	whirl	Траектория	-	—	64-66	intr	разложимая
+65	зарма	ПЕРЕВОРАЧИВАТЬСЯ	bárè	turn_over	‘se renverser’	+	‘Если вода — в лодке, она быстро переворачивается.’	simple	turn_over	—	—	-	—	—	intr	—
+66	зарма	ПОВОРАЧИВАТЬСЯ	wíndí	turn_around	‘faire le tour, tourner autour’	-	—	simple	turn_around	—	—	-	—	64-66	intr	—
+67	зарма	ДРОЖАТЬ	jí~jírí	RED~tremble	trembler	+	‘Почему ты дрожишь?’	simple	tremble	—	—	+	—	—	intr	—
+68	зарма	ШЕВЕЛИТЬСЯ	ñóótí	move	‘bouger, remuer’	+	‘Живой? Шевелиться могу…’	simple	move	—	—	-	—	—	intr	—
+69	зарма	НАКЛОНЯТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+70	зарма	ВЫПРЯМЛЯТЬСЯ	sàllé sòòsáy	stretch straight	—	+	и она тотчас выпрямилась и начала славить Бога.	construction	stretch	straight	Конечная точка	-	—	—	intr	разложимая
+71	бамана	МАХАТЬ	bólo séri	hand wave	‘agiter la main’	+	‘Махать рукой кому-нибудь’	construction	wave	hand	Участник	-	—	—	intr	разложимая
+72	бамана	КАЧАТЬСЯ	fìnifana	swing	‘se balancer (aller de droite et de gauche, pencher tantôt d'un côté, tantôt de l'autre)’	-	—	simple	swing	—	—	-	—	—	intr	—
+73	бамана	КРУЖИТЬСЯ	múnu~munu	turn~RED	‘tourner en rond; circulate, move in circles, turn round and round’	-	—	simple	spin	—	—	+	—	—	intr	—
+74	бамана	ПЕРЕВОРАЧИВАТЬСЯ	wóloki 	turn_over	‘se renverser, se retourner.’	-	—	simple	turn_over	—	—	-	—	—	intr	—
+75	бамана	ПОВОРАЧИВАТЬСЯ	kɔ́ma-yɛ̀lɛma	back-change	‘se tourner, tourner le dos’	-	—	construction	change	back2	Участник	-	—	—	intr	разложимая
+76	бамана	ДРОЖАТЬ	yɛ́rɛ~yɛrɛ	tremble~RED	‘trembler’	+	‘Он так боялся, что дрожал.’	simple	tremble	—	—	+	—	—	intr	—
+77	бамана	ШЕВЕЛИТЬСЯ	kíri~kiri	move~RED	‘s'agiter, gigoter’	-	—	simple	move	—	—	+	—	—	intr	—
+78	бамана	НАКЛОНЯТЬСЯ	bíri	bend	‘se courber’	+	‘Наклонись!’	simple	bend	—	—	-	—	—	intr	—
+79	бамана	ВЫПРЯМЛЯТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+80	томмо-со	МАХАТЬ	wìdé 	wave	‘wave (e.g. hand) as a greeting or signal’	-	—	simple	wave	—	—	-	—	—	tr	—
+81	томмо-со	КАЧАТЬСЯ	yùùm-íyɛ́	sway-MPASS	‘(e.g. tree) sway’	-	—	grammatical	swing	MPASS	АП	-	—	—	intr	—
+82	томмо-со	КРУЖИТЬСЯ	jìg-íl-íyé	spin-REV-MPASS	‘(sth) turn, spin, rotate’	-	—	grammatical	spin	REV; MPASS	АП	-	—	—	intr	—
+83	томмо-со	ПЕРЕВОРАЧИВАТЬСЯ	bìlí-yé	turn_over-MPASS	‘turn or flip over onto its other side’	-	—	grammatical	turn_over	MPASS	АП	-	—	—	intr	—
+84	томмо-со	ПОВОРАЧИВАТЬСЯ	wìdí-yé	turn_around-MPASS	‘turn around (and go back)’	-	—	grammatical	turn_around	MPASS	АП	-	—	—	intr	—
+85	томмо-со	ПОВОРАЧИВАТЬСЯ	gìgílí-yé	turn_around-MPASS	‘(sb, sth) turn around (e.g. to look)’	-	—	grammatical	turn_around	MPASS	АП	-	—	—	intr	—
+86	томмо-со	ДРОЖАТЬ	kímɛ́	tremble	vibrate, be shaking	-	—	simple	tremble	—	—	-	—	—	lab	—
+87	томмо-со	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+88	томмо-со	НАКЛОНЯТЬСЯ	dààb-íyɛ́	bend-MPASS	bend over, lean forward, bow	-	—	grammatical	bend	MPASS	АП	-	—	—	intr	—
+89	томмо-со	ВЫПРЯМЛЯТЬСЯ	pɛ́lɛ́l-íyɛ́	straighten_up-MPASS	become straight, be stretched out straight	-	—	grammatical	straighten_up	MPASS	АП	-	—	—	intr	—
+90	койяри	МАХАТЬ	ada kabika-vaha 	hand swing-CAUS	wave (hand)	+	Wave at me!	construction	swing	hand, CAUS	АП, Участник	-	—	91-92	tr	разложимая
+91	койяри	КАЧАТЬСЯ	kabika 	swing	‘swing, rock, shake.’	+	‘The net bag is swinging.’	simple	swing	—	—	-	—	91-92	intr	—
+92	койяри	КРУЖИТЬСЯ	vobara	spin	‘spin, rotate, go round and round’	+	‘The propeller's spinning round and round.’	simple	spin	—	—	-	—	—	intr	—
+93	койяри	ПЕРЕВОРАЧИВАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+94	койяри	ПОВОРАЧИВАТЬСЯ	voira	turn_around	‘turn around’	+	‘And ah // the children then turned around and came’	simple	turn_around	—	—	-	—	—	intr	—
+95	койяри	ДРОЖАТЬ	kuku 	tremble	‘shake, quake, quiver.’	+	‘I'm frightened and trembling’	simple	tremble	—	—	+	—	—	intr	—
+96	койяри	ШЕВЕЛИТЬСЯ	vareva 	move	‘move’	+	‘Don’t move you (pl)!’	simple	move	—	—	-	—	—	intr	—
+97	койяри	НАКЛОНЯТЬСЯ	voru 	bend	‘bow down’	+	‘When they saw the small child with its mother they bowed down, and worshipped it.’	simple	bend	—	—	-	—	—	intr	—
+98	койяри	ВЫПРЯМЛЯТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+99	аварский	МАХАТЬ	xʷaʕ-eze 	swing-INF	‘махать, взмахивать’	+	‘Он махал мне издали.’	simple	swing	—	—	-	99-100	—	intr	—
+100	аварский	КАЧАТЬСЯ	xʷaʕ-eze 	swing-INF	‘качаться, раскачиваться, колебаться; трястись, сотрясаться’	-	—	simple	swing	—	—	-	99-100	—	intr	—
+101	аварский	КРУЖИТЬСЯ	tir-ize 	spin-INF	‘крутиться, вертеться, кружиться; вращаться’	+	‘Колесо крутится.’	simple	spin	—	—	-	—	—	intr	—
+102	аварский	ПЕРЕВОРАЧИВАТЬСЯ	sʷer-ize 	turn_over-INF	‘переворачиваться, перевернуться’	+	‘Перевернуться с боку на бок.’	simple	turn_over	—	—	-	—	—	intr	—
+103	аварский	ПОВОРАЧИВАТЬСЯ	b-usː-ine	N-turn_around-INF	‘поворачиваться, повернуться куда-л.’	+	‘Повернись ко мне.’	simple	turn_around	—	—	-	—	—	intr	—
+104	аварский	ДРОЖАТЬ	soro-d-ize	tremble-ITER-INF	(за)дрожать; испытывать дрожь, озноб; съёжиться от озноба	+	‘Дрожать от холода’	simple	tremble	—	—	-	—	—	intr	—
+105	аварский	ШЕВЕЛИТЬСЯ	b-aʁa-b-ačar-ize	N-move-N-touch-INF	шевелиться	+	‘Кто-то шевелился в постели.’	construction	touch	thrash	?	-	—	—	intr	неразложимая
+106	аварский	НАКЛОНЯТЬСЯ	q’ul-ize	bend-INF	‘сгибаться, согнуться; нагибаться, нагнуться; наклоняться, наклониться, склоняться, склониться; кланяться, поклониться;’	+	‘Склониться над ребёнком.’	simple	bend	—	—	-	—	—	intr	—
+107	аварский	ВЫПРЯМЛЯТЬСЯ	bit’-un č’-eze	become_right-CVB stand-INF	—	+	‘Выпрямиться во весь рост.’	construction	stand	become_right	Конечная точка	-	—	—	intr	разложимая
+108	аварский	ВЫПРЯМЛЯТЬСЯ	bit’un b-ač’-ine	become_right-CVB N-become-INF	—	+	‘И она тотчас выпрямилась. {букв. её спина}’ 	construction	become	become_right	Конечная точка	-	—	—	intr	разложимая
+109	русский	МАХАТЬ	маха-ть	wave-INF	—	+	Помаши ему, иначе он нас не заметит	simple	wave	—	—	-	—	—	intr	—
+110	русский	КАЧАТЬСЯ	кача-ть-ся	swing-INF-MED	—	+	Деревья качаются от ветра	grammatical	swing	MED	АП	-	—	—	intr	—
+111	русский	КРУЖИТЬСЯ	крути-ть-ся	spin-INF-MED	—	+	Колесо обозрения крутится	grammatical	spin	MED	АП	-	—	—	intr	—
+112	русский	ПЕРЕВОРАЧИВАТЬСЯ	пере-ворач-ива-ть-ся	OVER-turn-IPFV-INF-MED	—	+	Ребенок перевернулся во сне	grammatical	turn	OVER, MED	Траектория, АП	-	—	112-113-114-115	intr	—
+113	русский	ПОВОРАЧИВАТЬСЯ	по-ворач-ива-ть-ся	ALONG-turn-IPFV-INF-MED	—	+	Я повернулся к ним спиной	grammatical	turn	ALONG, MED	Траектория, АП	-	—	112-113-114-115	intr	—
+114	русский	ПОВОРАЧИВАТЬСЯ	раз-ворач-ива-ть-ся 	REV-turn-IPFV-INF-MED	—	+	Я развернулся и пошёл назад	grammatical	turn	REV; MED	Траектория, АП	-	—	112-113-114-115	intr	—
+115	русский	ПОВОРАЧИВАТЬСЯ	оборач-ива-ть-ся	AROUND:turn-IPFV-INF-MED	—	+	Я обернулся, чтобы посмотреть, кто меня зовёт	grammatical	turn	AROUND; MED	Траектория, АП	-	—	112-113-114-115	intr	—
+116	русский	ДРОЖАТЬ	дрожа-ть	tremble-INF	—	+	Почему ты дрожишь	simple	tremble	—	—	-	—	—	intr	—
+117	русский	ШЕВЕЛИТЬСЯ	шевелить-ся	move-INF-MED	—	+	В кустах что-то шевелилось	grammatical	move	MED	АП	-	—	—	intr	—
+118	русский	НАКЛОНЯТЬСЯ	на-клон-я-ть-ся	ON-bend-IPFV-INF-MED	—	+	Я наклонился, чтобы завязать шнурки	grammatical	bend	ON; MED	Траектория, АП	-	—	—	intr	—
+119	русский	НАКЛОНЯТЬСЯ	с-гиба-ть-ся	JOIN-bend-INF-MED	—	+	Он согнулся и побежал	grammatical	bend	JOIN; MED	Траектория, АП	-	—	—	intr	—
+120	русский	ВЫПРЯМЛЯТЬСЯ	вы-прямл-я-ть-ся	OUT-straighten_up-INF-IPFV-MED	—	+	И она тотчас выпрямилась и стала славить Бога	grammatical	straighten_up	OUT; MED	Траектория, АП	-	—	—	intr	—
+121	йингулу	МАХАТЬ	marn-majkarr-	hand-wave	‘wave (hands)’	+	‘They’re all waving their hands.’	construction	wave	hand	Участник	-	—	—	intr	разложимая
+122	йингулу	КАЧАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+123	йингулу	КРУЖИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+124	йингулу	ПЕРЕВОРАЧИВАТЬСЯ	(w)irrinjkum-	turn	‘turn, turn around, turn over’	-	—	simple	turn	—	—	-	124-125	—	intr	—
+125	йингулу	ПОВОРАЧИВАТЬСЯ	(w)irrinjkum-	turn	‘turn, turn around, turn over’	+	‘We two will turn around.’	simple	turn	—	—	-	124-125	—	intr	—
+126	йингулу	ДРОЖАТЬ	birriy-	tremble	‘shiver, tremble’	+	‘He’s shivering.’	simple	tremble	—	—	-	—	—	intr	—
+127	йингулу	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+128	йингулу	НАКЛОНЯТЬСЯ	bunyurr-	bend	‘bend over’	+	‘I’m bending over carefully to get it.’	simple	bend	—	—	-	—	—	intr	—
+129	йингулу	ВЫПРЯМЛЯТЬСЯ	durrun mil-	BOUND straighten_up	‘straighten, keep straight’	+	‘I’ll stretch myself out straight.’	construction	straighten_up	BOUND; REFL	АП	-	—	—	intr	неразложимая
+130	бурарра	МАХАТЬ	mernda-garlma 	arm-raise	wave; signal with raised arm’	+	‘They signaled with raised arms to their two friends to come here.’	construction	raise	arm	Участник	-	—	130-138	intr	разложимая
+131	бурарра	КАЧАТЬСЯ	warna~warnanyji-ya	RED~swing-MED	swing gently back and forth	+	The dilly bag he hung up is gently swinging back and forth’	grammatical	swing	MED	АП	+	—	—	intr	—
+132	бурарра	КРУЖИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+133	бурарра	ПЕРЕВОРАЧИВАТЬСЯ	ngukurdanyji-ya	turn-MED	‘turn self around; turn over; change’	+	‘...then he turned around and spoke to them...’	grammatical	turn	MED	АП	-	133-134	—	intr	—
+134	бурарра	ПОВОРАЧИВАТЬСЯ	ngukurdanyji-ya	turn-MED	‘turn self around; turn over; change’	+	‘...then he turned around and spoke to them...’	grammatical	turn	MED	АП	-	133-134	—	intr	—
+135	бурарра	ДРОЖАТЬ	wurr~wurrja 	RED~tremble	‘shiver; shake; tremble’	+	‘They were very frightened and like they were shaking.’	simple	tremble	—	—	+	—	—	intr	—
+136	бурарра	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+137	бурарра	НАКЛОНЯТЬСЯ	gurduwuja 	bend	‘bend down’	+	‘Then he bent over, he looked around inside (the tomb),...but he didn't go in.’	simple	bend	—	—	-	—	—	intr	—
+138	бурарра	ВЫПРЯМЛЯТЬСЯ	garlmu-na-pa jechinuwa ni 	raise-PST-CIRC straight be	—	+	‘И она тотчас выпрямилась’.	construction	be straighten	raise	Траектория	-	—	130-138	intr	разложимая
+139	маунг	МАХАТЬ	k-ani-marr-anyi 	PRS-3SG.TR-arm-hit	‘he is waving (his hand)’	-	—	construction	hit	arm	Участник	-	—	—	tr	разложимая
+140	маунг	КАЧАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+141	маунг	КРУЖИТЬСЯ	k-i-malaminmin 	PRS-3SG.INTR-spin	‘he is rotating’	+	‘We are spinning around.’	simple	spin	—	—	-	—	—	intr	—
+142	маунг	ПЕРЕВОРАЧИВАТЬСЯ	k-ini-mirlpulnga	PRS-3SG.INTR-turn	‘he turns over’	+	‘The canoe overturns’	simple	turn_over	—	—	-	—	—	lab	—
+143	маунг	ПОВОРАЧИВАТЬСЯ	k-inny-ukpun 	PRS-3SG.INTR-turn_around	‘turn around’	+	‘Look, the aeroplane has turned (changed direction).’	simple	turn_around	—	—	-	—	—	lab	—
+144	маунг	ДРОЖАТЬ	maru~maru	tremble~RED	he is shivering	+	‘He is shivering.’	simple	tremble	—	—	+	—	—	intr	—
+145	маунг	ШЕВЕЛИТЬСЯ	k-i-yirrngun 	PRS-3SG.INTR-move	‘it is moving’	+	‘I moved. (e.g. muscles in my body)	simple	move	—	—	-	—	—	intr	—
+146	маунг	НАКЛОНЯТЬСЯ	purup	bend	‘it bends over’	+	‘You bend over.’	simple	bend	—	—	-	—	—	intr	—
+147	маунг	ВЫПРЯМЛЯТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+148	гуарани	МАХАТЬ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+149	гуарани	КАЧАТЬСЯ	a-kacha	1SG.ACT-swing	‘moverse como péndulo, agitarse’	-	—	simple	swing	—	—	-	—	—	intr	—
+150	гуарани	КРУЖИТЬСЯ	che-pyry~rÿi 	1SG.INACT-spin~RED	‘girar, dar vueltas.’	-	—	simple	spin	—	—	-	—	—	intr	—
+151	гуарани	ПЕРЕВОРАЧИВАТЬСЯ	a-japaro 	1SG.ACT-turn_over	‘volcarse’	-	—	simple	turn_over	—	—	-	—	—	intr	—
+152	гуарани	ПОВОРАЧИВАТЬСЯ	a-jere	1SG.ACT-turn_around	‘dar vuelta o rodeo’	-	—	simple	turn_around	—	—	-	—	—	intr	—
+153	гуарани	ДРОЖАТЬ	a-ry~rÿi	1SG.ACT-RED~tremble	‘temblar, tiritar; vibrar; tener frío y temblor en la fiebre’	-	—	simple	tremble	—	—	+	—	—	intr	—
+154	гуарани	ШЕВЕЛИТЬСЯ	a-mÿi	1SG.ACT-move	‘moverse, menearse’	-	—	simple	move	—	—	-	—	—	intr	—
+155	гуарани	НАКЛОНЯТЬСЯ	a-jayvy 	1SG.ACT-bend	‘agacharse, inclinarse hacia delante’	-	—	simple	bend	—	—	-	—	—	intr	—
+156	гуарани	ВЫПРЯМЛЯТЬСЯ	a-ñe-akã-upi	1SG.ACT-REFL-head-lift	—	+	‘и она тотчас выпрямилась’	construction	lift	head, REFL	Участник, АП	-	—	—	intr	разложимая
+157	кева	МАХАТЬ	ki wakia 	hand wave	‘wave hand’	-	—	construction	wave	hand	Участник	-	—	—	intr	разложимая
+158	кева	КАЧАТЬСЯ	yalipuli 	swing	‘to swing back and forth.’	-	—	simple	swing	—	—	-	—	—	intr	—
+159	кева	КРУЖИТЬСЯ	pele~pele 	spin~RED	‘to turn around and around, as something hanging from a rope; to spin’	-	—	simple	spin	—	—	+	—	—	intr	—
+160	кева	ПЕРЕВОРАЧИВАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+161	кева	ПОВОРАЧИВАТЬСЯ	perekea 	turn_around	‘to turn around’	+	‘Turn around and go back.’	simple	turn_around	—	—	-	—	—	intr	—
+162	кева	ДРОЖАТЬ	upa rigi 	cold cover	‘to shiver’	+	‘I am shivering and really sick.’	construction	cover	cold	?	-	—	—	intr	неразложимая
+163	кева	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+164	кева	НАКЛОНЯТЬСЯ	pataba 	bend	‘be bent over, lie down’	+	‘Bend down and get it under the house.’	simple	bend	—	—	-	—	—	intr	—
+165	кева	ВЫПРЯМЛЯТЬСЯ	masaa maridula-wa 	back CAUS-stretch-3SG	—	+	‘и она тотчас выпрямилась’	construction	stretch	back2	Участник	-	—	—	intr	разложимая
+166	индонезийский	МАХАТЬ	awai 	wave	‘to wave (the hand)’	-	—	simple	wave	—	—	-	—	—	intr	—
+167	индонезийский	МАХАТЬ	meng-ulap	MED-wave	‘to wave, beckon with the hand’	-	—	grammatical	wave	MED	АП	-	—	—	intr	—
+168	индонезийский	КАЧАТЬСЯ	ber-ayun~ayun 	MED-swing~RED	‘to rock, swing, sway, go up and down’	-	—	grammatical	swing	MED	АП	+	—	—	intr	—
+169	индонезийский	КАЧАТЬСЯ	ber-buai	MED-swing	to swing, sway	-	—	grammatical	swing	MED	АП	-	—	—	intr	—
+170	индонезийский	КАЧАТЬСЯ	gundal	swing	‘to swing back and forth, dangle, hang down and sway’	-	—	simple	swing	—	—	-	—	—	intr	—
+171	индонезийский	КРУЖИТЬСЯ	ber-kisar 	MED-spin	‘to spin, rotate, turn, revolve’	-	—	grammatical	spin	MED	АП	-	—	—	intr	—
+172	индонезийский	ПЕРЕВОРАЧИВАТЬСЯ	ber-balik 	MED-turn	‘to turn over/upside down’	-	—	grammatical	turn	MED	АП	-	172-173	—	intr	—
+173	индонезийский	ПОВОРАЧИВАТЬСЯ	ber-balik 	MED-turn	‘to turn over/upside down’	+	‘He turned around to look at his wife.’	grammatical	turn	MED	АП	-	172-173	—	intr	—
+174	индонезийский	ДРОЖАТЬ	meng-gi~gil 	MED-RED~tremble	‘to shiver, tremble (from cold/fear, etc.)’	+	‘to shake with cold’	grammatical	tremble	MED	АП	+	—	—	intr	—
+175	индонезийский	ШЕВЕЛИТЬСЯ	ber-gerak 	MED-move	‘to move, change position, be in motion.’	+	‘Don’t move!’	grammatical	move	MED	АП	-	—	—	intr	—
+176	индонезийский	НАКЛОНЯТЬСЯ	lengkuk 	bend	‘to bend down’	-	—	simple	bend	—	—	-	—	—	intr	—
+177	индонезийский	ВЫПРЯМЛЯТЬСЯ	ber-diri	MED-straighten_up	‘to stand up straight’	+	‘и она тотчас выпрямилась’ 	grammatical	straighten_up	MED	АП	-	—	—	intr	—
+178	кечуа	МАХАТЬ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+179	кечуа	КАЧАТЬСЯ	warku-y kacha-ku-y 	swing-INF send-REFL-INF	‘Colgarse de uno y otro lado.’	-	—	construction	send	swing	?	-	—	—	intr	неразложимая
+180	кечуа	КРУЖИТЬСЯ	muy~uy-ku-y	spin~RED-REFL-INF	‘Circular, moverse de modo continuo y uniforme volviendo siempre al punto de partida; girar sin interrupción.’	-	—	grammatical	spin	REFL	АП	+	—	—	intr	—
+181	кечуа	ПЕРЕВОРАЧИВАТЬСЯ	t'ikra-ku-y	turn_over-REFL-INF	‘Voltearse, ponerse de revés alguna cosa.’	-	—	grammatical	turn_over	REFL	АП	-	—	—	intr	—
+182	кечуа	ПОВОРАЧИВАТЬСЯ	kuti-ri-y	turn_around-INC-INF	‘Volverse, voltearse.’	-	—	simple	turn_around	—	—	-	—	—	intr	—
+183	кечуа	ДРОЖАТЬ	khata~tata-y 	tremble~RED-INF	‘Tiritar, temblar por acción del frío u otro agente.’	-	—	simple	tremble	—	—	+	—	—	intr	—
+184	кечуа	ШЕВЕЛИТЬСЯ	kuyu-y	move-INF	‘Cambiar de posición o ubicación sin desplazarse.’	-	—	simple	move	—	—	-	—	—	intr	—
+185	кечуа	НАКЛОНЯТЬСЯ	ullpuy-ku-y	bend-REFL-INF	‘Postrarse, inclinarse en señal de sumisión, de adoración o pleitesía.’	-	—	grammatical	bend	REFL	АП	-	—	—	intr	—
+186	кечуа	ВЫПРЯМЛЯТЬСЯ	saya-ri-y	straighten_up-INC-INF	—	+	‘и она тотчас выпрямилась’ 	simple	straighten_up	—	—	-	—	—	intr	—
+187	коптский	МАХАТЬ	kʲla 	wave	wave'	-	—	simple	wave	cast	—	-	—	187-188-189	intr	—
+188	коптский	КАЧАТЬСЯ	ti kʲla 	give wave	swing	-	—	construction	wave	give	?	-	—	187-188-189	intr	неразложимая
+189	коптский	КАЧАТЬСЯ	hi kʲla 	cast wave	swing	-	—	construction	wave	cast	?	-	—	187-188-189	intr	неразложимая
+190	коптский	КРУЖИТЬСЯ	kôte 	spin	—	-	‘Кружится, кружится на ходу своём, и возвращается ветер на круги свои’	simple	spin	—	—	-	—	190-192	intr	—
+191	коптский	ПЕРЕВОРАЧИВАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+192	коптский	ПОВОРАЧИВАТЬСЯ	kôte e=pahu	spin to=back	—	+	‘Иордан обратился назад’. 	grammatical	spin	aback	Траектория	-	—	190-192	intr	—
+193	коптский	ДРОЖАТЬ	stôt 	tremble	‘tremble’	+	‘[Он потребовал огня, вбежал в темницу] и в трепете припал к Павлу и Силе’.	simple	tremble	—	—	-	—	—	intr	—
+194	коптский	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+195	коптский	НАКЛОНЯТЬСЯ	ôlk epesêt	become_bent downwards	‘bend down’	-	—	grammatical	bend	downwards	Траектория	-	—	—	intr	—
+196	коптский	ВЫПРЯМЛЯТЬСЯ	tôun 	straighten_up	‘arise’	-	‘и она тотчас выпрямилась’ 	simple	straighten_up	—	—	-	—	—	intr	—
+197	лакота	МАХАТЬ	napé-kozA 	hand-wave	‘to wave one's hand, signal with one's hand (as a sign of invitation)’	-	—	construction	swing	hand	Участник	-	—	197-198	intr	разложимая
+198	лакота	КАЧАТЬСЯ	o-ká-kozA	RESTR-WIND-wave	‘to dangle by inner force or by the action of wind, swing, sway back and forth’	+	‘A garter snake was dangling in front of his face’	grammatical	swing	RESTR; WIND	Местоположение, Сила	-	—	197-198	intr	—
+199	лакота	КРУЖИТЬСЯ	na-hómni 	OWN-turn	‘it turns around of its own accord or by inner force, it spins’	+	‘The wheel is spinning.’	grammatical	turn	OWN	Сила	-	—	199-201	intr	—
+200	лакота	ПЕРЕВОРАЧИВАТЬСЯ	ik-pá-ptaŋ	REFL-PUSH-turn_over	to turn over in bed, to roll over	+	‘He rolled over in his sleep.’	grammatical	turn_over	REFL; PUSH	АП, Траектория	-	—	—	intr	—
+201	лакота	ПОВОРАЧИВАТЬСЯ	igl-ú-homni	REFL-PULL-turn-PLAC	‘to turn oneself around, to convert (as to a different religion)’	+	‘All the spectators turned around and looked at him instead’	grammatical	turn	REFL; PULL	АП, Траектория	-	—	199-201	intr	—
+202	лакота	ДРОЖАТЬ	čhaŋ~čháŋ 	tremble~RED	‘to shake, quiver, tremble, shiver (as with fear or cold)’	+	‘He was cold and trembled.’	simple	tremble	—	—	+	—	—	intr	—
+203	лакота	ШЕВЕЛИТЬСЯ	škíŋ-čiyA	move-REFL	‘stir or move oneself, bestir oneself’	-	—	grammatical	move	REFL	АП	-	—	—	intr	—
+204	лакота	НАКЛОНЯТЬСЯ	pa-thúš 	PUSH-bend	‘bending down or forward, stoop, bow’	+	‘He stooped down and with his hand he wrote it in the sand.’	grammatical	bend	PUSH	Траектория	-	—	—	intr	—
+205	лакота	ВЫПРЯМЛЯТЬСЯ	igl-ú-owotȟaŋ	REFL-PULL-straighten_up	 ‘to straighten oneself up, stand straight, to make oneself upright or righteous, to straighten or improve one's own affairs’	-	—	grammatical	straighten_up	PULL	Траектория	-	—	—	intr	—
+206	нама	МАХАТЬ	ǁnàpő-táwèdȅ 	wave-greet	‘wave to s.o.’	-	—	construction	wave	greet	?	-	—	—	intr	неразложимая
+207	нама	КАЧАТЬСЯ	ǀna̋pé	swing	‘dangle, swing’	-	—	simple	swing	—	—	-	—	—	intr	—
+208	нама	КРУЖИТЬСЯ	ǂnȁmípe̋ǃgàpű	spin	‘rotate, turn, revolve, spin, whirl’	-	—	simple	spin	—	—	-	—	—	intr	—
+209	нама	ПЕРЕВОРАЧИВАТЬСЯ	dȁwà-sèn 	turn_over-REFL	‘turn o.s. over (in bed)’	-	—	grammatical	turn_over	REFL	АП	-	—	—	intr	—
+210	нама	ПОВОРАЧИВАТЬСЯ	ǁnùmi̋-sèn 	turn_around-REFL	‘turn around, make left / right turn’	-	—	grammatical	turn_around	REFL	АП	-	—	—	intr	—
+211	нама	ДРОЖАТЬ	ǀkhùű 	tremble	‘tremble (esp. bec. of fear); shiver (esp. bec. of cold)’	-	—	simple	tremble	—	—	-	—	—	intr	—
+212	нама	ШЕВЕЛИТЬСЯ	gòǹ 	move	‘move, stir’	-	—	simple	move	—	—	-	—	—	intr	—
+213	нама	НАКЛОНЯТЬСЯ	ǃgám̀-sèn 	bend-REFL	‘bend over, stoop’	-	—	grammatical	bend	REFL	АП	-	—	—	intr	—
+214	нама	ВЫПРЯМЛЯТЬСЯ	ǁkhawa ǂhanu 	stand_up straight	‘straighten up, arise’	+	‘и она тотчас выпрямилась’ 	construction	stand_up	straight	Конечная точка	-	—	—	intr	разложимая
+215	нен	МАХАТЬ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+216	нен	КАЧАТЬСЯ	ä-pneng-s 	MED-swing-INF	 ‘swing, be swinging / swing, take a swing or punch’	+	‘The handle of the bag is swinging.’	grammatical	swing	MED	АП	-	—	—	intr	—
+217	нен	КРУЖИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+218	нен	ПЕРЕВОРАЧИВАТЬСЯ	ä-gärng̅-s	MED-turn_over-INF	‘turn over (intransitive), turn oneself over or around’	+	‘The baby has turned over.’	grammatical	turn_over	MED	АП	-	—	—	intr	—
+219	нен	ПОВОРАЧИВАТЬСЯ	ä-gӓrng-s 	MED-turn_around-INF	‘turn around (itr.)’	+	I'm turning around.	grammatical	turn_around	MED	АП	-	—	—	intr	—
+220	нен	ДРОЖАТЬ	e-gmnӓng-s	MED-tremble-INF	‘shake (itr.) / bob up and down’	+	‘I'm shaking.’	grammatical	tremble	MED	АП	-	—	—	intr	—
+221	нен	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+222	нен	НАКЛОНЯТЬСЯ	e-wepn-s	MED-bend-INF	‘bend down, bend over’	+	‘Bend down!’ ‘OK, I Will bend down.’	grammatical	bend	MED	АП	-	—	—	intr	—
+223	нен	ВЫПРЯМЛЯТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+224	турецкий	МАХАТЬ	el salla-mak	hand swing-INF	‘махать кому-либо рукой’	-	—	construction	swing	hand	Участник	-	—	224-225	intr	разложимая
+225	турецкий	КАЧАТЬСЯ	salla-n-mak 	swing-REFL-INF	‘качаться в разн. знач.’	-	—	grammatical	swing	REFL	АП	-	—	224-225	intr	—
+226	турецкий	КРУЖИТЬСЯ	dön-mek	turn-INF	‘крутиться, вращаться, вертеться’	-	—	simple	turn	—	—	-	226-227-228	—	intr	—
+227	турецкий	ПЕРЕВОРАЧИВАТЬСЯ	dön-mek	turn-INF	‘перевёртываться, перевернуться’	+	‘перевертываться с боку на бок’	simple	turn	—	—	-	226-227-228	—	intr	—
+228	турецкий	ПОВОРАЧИВАТЬСЯ	dön-mek	turn-INF	‘повёртываться, повернуться’	+	‘он повернулся ко мне [лицом]’	simple	turn	—	—	-	226-227-228	—	intr	—
+229	турецкий	ДРОЖАТЬ	titre-mek	tremble-INF	‘дрожать’	+	‘дрожать от страха’	simple	tremble	—	—	-	—	—	intr	—
+230	турецкий	ШЕВЕЛИТЬСЯ	kıpırda-mak	move-INF	‘шевелиться’	+	‘Не шевелись!’	simple	move	—	—	-	—	—	intr	—
+231	турецкий	НАКЛОНЯТЬСЯ	eğil-mek 	bend-INF	‘наклоняться, наклониться’	+	‘Тебе нужно просто нагнуться’.	simple	bend	—	—	-	—	—	intr	—
+232	турецкий	ВЫПРЯМЛЯТЬСЯ	doğrul-mak	straighten_up-INF	‘выпрямляться, выпрямиться’	+	‘и она тотчас выпрямилась’ 	simple	straighten_up	—	—	-	—	—	intr	—
+233	суахили	МАХАТЬ	tikisi-ka	wave-MED	‘wave’	-	—	grammatical	wave	MED	АП	-	—	—	intr	—
+234	суахили	КАЧАТЬСЯ	bembea  	swing	‘swing, rock, oscillate’	-	—	simple	swing	—	—	-	—	—	intr	—
+235	суахили	КРУЖИТЬСЯ	zungu-ka	spin-MED	‘go round, surround, revolve; rotate’	+	‘Земля вращается вокруг солнца’.	grammatical	spin	MED	АП	-	—	—	intr	—
+236	суахили	ПЕРЕВОРАЧИВАТЬСЯ	pindu-ka 	turn_over-MED	‘overturn, turn over, flip over’	-	—	grammatical	turn_over	MED	АП	-	—	—	intr	—
+237	суахили	ПОВОРАЧИВАТЬСЯ	geu-ka	turn_around-MED	‘turn, turn around’	-	—	grammatical	turn_around	MED	АП	-	—	—	intr	—
+238	суахили	ДРОЖАТЬ	teteme-ka	tremble-MED	‘tremble, shake, vibrate, quake, quiver, shiver, palpitate’	-	—	grammatical	tremble	MED	АП	-	—	—	intr	—
+239	суахили	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	intr	—
+240	суахили	НАКЛОНЯТЬСЯ	sinua 	bend	‘bend over, tilt’	-	—	simple	bend	—	—	-	—	—	intr	—
+241	суахили	ВЫПРЯМЛЯТЬСЯ	simama wima 	stand_up upright	 ‘stand upright.’	+	и она тотчас выпрямилась и начала славить Бога.	construction	stand_up	straight	Конечная точка	-	—	—	intr	разложимая
+242	ток-писин	МАХАТЬ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+243	ток-писин	КАЧАТЬСЯ	wawan	swing	sway	-	—	simple	swing	—	—	-	—	—	intr	—
+244	ток-писин	КРУЖИТЬСЯ	raun 	spin	‘spin’	-	—	simple	spin	—	—	-	—	—	intr	—
+245	ток-писин	ПЕРЕВОРАЧИВАТЬСЯ	ova 	turn_over	‘turn over’	-	—	simple	turn_over	—	—	-	—	—	intr	—
+246	ток-писин	ПОВОРАЧИВАТЬСЯ	tanim 	turn_around	‘to turn around’	+	‘It started raining heavily so they turned around and came back.’	simple	turn_around	—	—	-	—	—	intr	—
+247	ток-писин	ДРОЖАТЬ	guria 	tremble	‘to tremble’	+	‘The sight of a spirit made him quake.’	simple	tremble	—	—	-	—	—	intr	—
+248	ток-писин	ШЕВЕЛИТЬСЯ	surik 	move	to move'	+	‘She didn’t move.’	simple	move	—	—	-	—	—	intr	—
+249	ток-писин	НАКЛОНЯТЬСЯ	brukim bek	bend back	‘to bend down’	-	—	construction	bend	back2	Участник	-	—	—	intr	разложимая
+250	ток-писин	ВЫПРЯМЛЯТЬСЯ	sanap stret	stand_up straight	‘stand erect’	+	и она тотчас выпрямилась	construction	stand_up	straight	Конечная точка	-	—	—	intr	разложимая
+251	чероки	МАХАТЬ	a-solvdagia 	3SG-wave:PRC	‘he's waving his hand’	+	‘When his friend passed by, he waved to him.’	simple	wave	—	—	-	—	—	intr	—
+252	чероки	КАЧАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+253	чероки	КРУЖИТЬСЯ	ad-igwalvdeyoha 	3SG:MED-spin:PRC	‘he’s spinning’	+	‘The wheel is spinning too fast to stop.	grammatical	spin	MED	АП	-	—	—	intr	—
+254	чероки	ПЕРЕВОРАЧИВАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+255	чероки	ПОВОРАЧИВАТЬСЯ	a-ktahva 	3SG-turn_around:PRC	‘he’s turning around’	+	‘When he heard someone calling him, he turned around.’	simple	turn_around	—	—	-	—	—	intr	—
+256	чероки	ДРОЖАТЬ	u-wanawia	3SG-tremble:PRC	‘he's shivering’	+	‘She's shivering because she's cold.’	simple	tremble	—	—	-	—	—	intr	—
+257	чероки	ШЕВЕЛИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+258	чероки	НАКЛОНЯТЬСЯ	at-liyvquidvsga 	—	‘he’s bending’	-	—	grammatical	bend	MED	АП	-	—	—	intr	—
+259	чероки	ВЫПРЯМЛЯТЬСЯ	gachinosdv ni-ga-lsdi	straight PRT-3-become:PRC	—	+	‘и она тотчас выпрямилась и стала славить Бога.’ 	construction	become	straight	Конечная точка	-	—	—	intr	разложимая
+260	юрок	МАХАТЬ	hool-oote-k’ 	wave-CL-1SG	‘I wave’	+	‘She waves her hand.’	simple	wave	—	—	-	—	—	intr	—
+261	юрок	КАЧАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+262	юрок	КРУЖИТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+263	юрок	ПЕРЕВОРАЧИВАТЬСЯ	kelom-oh 	turn-MED	‘turn over’	-	—	grammatical	turn	ROUND	Траектория	-	—	263-264	intr	—
+264	юрок	ПОВОРАЧИВАТЬСЯ	kelom-ech-oo-k’ 	turn-MOVE-CL-1SG	‘I turn around’	+	‘He is turning around’	grammatical	turn	MOVE	Движение	-	—	263-264	intr	—
+265	юрок	ДРОЖАТЬ	test-oo-k’ 	tremble-CL-1SG	‘I shake, I tremble, I shiver’	+	‘I'm shaking because I'm cold.’	simple	tremble	—	—	-	—	—	intr	—
+266	юрок	ШЕВЕЛИТЬСЯ	pahchew 	move	‘to move one’s body’	+	‘Then the old man said, Stop! and it seemed that it did not move.’	simple	move	—	—	-	—	—	intr	—
+267	юрок	НАКЛОНЯТЬСЯ	chper'erye-k'	bend-1SG	‘I bend over, I stoop’	-	—	simple	bend	—	—	-	—	—	intr	—
+268	юрок	ВЫПРЯМЛЯТЬСЯ	chew-on-eme-k' 	straighten_up-MED-CL-1SG	‘I straighten’	-	—	grammatical	straighten_up	MED	АП	-	—	—	intr	—
+269	науатль	МАХАТЬ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+270	науатль	КАЧАТЬСЯ	mo-topehua 	REFL-swing	‘mecerse, columpiarse’	-	—	grammatical	swing	MED	АП	-	—	—	intr	—
+271	науатль	КРУЖИТЬСЯ	mo-mallacachoa 	REFL-spin	‘revolve / dar vueltas o girar alrededor de algo’	+	‘as though it were a wheel in its manner of going returning upon itself and revolving’	grammatical	spin	MED	АП	-	—	—	intr	—
+272	науатль	ПЕРЕВОРАЧИВАТЬСЯ	mo-quepa 	REFL-turn_over	‘voltearse, darse vuelta’	-	—	grammatical	turn_over	MED	АП	-	—	—	intr	—
+273	науатль	ПОВОРАЧИВАТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+274	науатль	ДРОЖАТЬ	hui~huiyoca 	RED~tremble	‘to tremble, shiver / temblar o tiritar de frío’	-	—	simple	tremble	—	—	+	—	—	intr	—
+275	науатль	ШЕВЕЛИТЬСЯ	cuechinia 	move	‘to move, shake, wiggle’	-	—	simple	move	—	—	-	—	—	intr	—
+276	науатль	НАКЛОНЯТЬСЯ	mo-pachoa	REFL-bend	‘agacharse, inclinarse hacia la tierra’	-	—	grammatical	bend	MED	АП	-	—	—	intr	—
+277	науатль	ВЫПРЯМЛЯТЬСЯ	melac-quetza 	straighten-stand_up	‘for s.o. or an animal to straighten its body up’	-	—	construction	stand_up	straighten	?	-	—	—	intr	неразложимая
+278	шипибо-конибо	МАХАТЬ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
+279	шипибо-конибо	КАЧАТЬСЯ	ónitsa-ti	swing-INF	‘moverse de un lado a otro’	+	‘Мама качается, потому что у неё болит глаз.’	simple	swing	—	—	-	—	—	intr	—
+280	шипибо-конибо	КРУЖИТЬСЯ	mayá-ti	spin.MED-INF	‘girar’	+	‘Хотя Земля вращается, мы этого не знаем, потому что она огромна’.	grammatical	spin	MED	АП	-	280-282	—	intr	—
+281	шипибо-конибо	ПЕРЕВОРАЧИВАТЬСЯ	ranbé-ti 	turn_over.MED-INF	‘voltearse’	+	‘Моя лодка перевернулась, потому что волна наполнила её водой’.	grammatical	turn_over	MED	АП	-	—	—	intr	—
+282	шипибо-конибо	ПОВОРАЧИВАТЬСЯ	mayá-ti	spin.MED-INF	‘dar la vuelta’	-	—	grammatical	spin	MED	АП	-	280-282	—	intr	—
+283	шипибо-конибо	ДРОЖАТЬ	sáquii-ti 	tremble-INF	‘temblar (p. ej., de miedo o de frío)’	+	‘Я дрожу от страха’.	simple	tremble	—	—	-	—	—	intr	—
+284	шипибо-конибо	ШЕВЕЛИТЬСЯ	cóshi-ti 	move-INF	‘moverse’	+	‘Он упал в обморок, но уже может шевелиться’	simple	move	—	—	-	—	—	intr	—
+285	шипибо-конибо	НАКЛОНЯТЬСЯ	beó-ti	bend.MED-INF	‘agacharse’	+	‘Когда женщина наклонилась, я прошёл незамеченным.’	grammatical	bend	MED	АП	-	—	—	intr	—
+286	шипибо-конибо	ВЫПРЯМЛЯТЬСЯ	ponté-ti 	straighten_up.MED-INF	‘enderezarse’	+	‘и она тотчас выпрямилась’ 	grammatical	straighten_up	MED	АП	-	—	—	intr	—
+287	маньчжурский	МАХАТЬ	gala lasihi-mbi	hand wave-IPFV	‘согнувши руку зову, машу кому, подзываю рукой’	-	—	construction	wave	hand	Участник	-	—	—	intr	разложимая
+288	маньчжурский	КАЧАТЬСЯ	hayarila-mbi 	swing-IPFV	‘шевелюсь, колышусь, качаюсь от вѣтру’	-	—	simple	swing	—	—	-	—	—	intr	—
+289	маньчжурский	КРУЖИТЬСЯ	tori-mbi	spin-IPFV	‘кружусь, хожу кругом, таскаюсь, шатаюсь, скитаюсь без приюта’	-	—	simple	spin	—	—	-	—	—	intr	—
+290	маньчжурский	ПЕРЕВОРАЧИВАТЬСЯ	šurde-mbi 	turn_over-IPFV	‘верчусь — переворачиваюсь напр. съ боку на бокъ, валяется — катается лошадь’	-	—	simple	turn	—	—	-	—	—	intr	—
+291	маньчжурский	ПОВОРАЧИВАТЬСЯ	mari-mbi	turn_around-IPFV	‘ворочаюсь, оборачиваюсь назадъ, поворочиваю тѣло, голову назадъ, оглядываюсь, возвращаюсь назадъ — домой откуда, прихожу обратно’	-	—	simple	turn	—	—	-	—	—	intr	—
+292	маньчжурский	ДРОЖАТЬ	tuksi-mbi 	tremble-IPFV	‘бьется, трепещетъ сердце, нли подъ пахами у лошади послѣ ѣзды, дрожу, трепещу отъ страха.’	-	—	simple	tremble	—	—	-	—	—	intr	—
+293	маньчжурский	ШЕВЕЛИТЬСЯ	ašša-mbi	move-IPFV	‘двигаюсь, шевелюсь, трогаюсь с места’	-	—	simple	move	—	—	-	—	—	intr	—
+294	маньчжурский	НАКЛОНЯТЬСЯ	gahu-mbi 	bend-IPFV	‘наклоняюсь вперед, нависаю’	-	—	simple	bend	—	—	-	—	—	intr	—
+295	маньчжурский	ВЫПРЯМЛЯТЬСЯ	—	—	—	—	—	—	—	—	—	—	—	—	—	—
